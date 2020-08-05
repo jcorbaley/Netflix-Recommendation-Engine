@@ -1,3 +1,3 @@
-# Fake News Detection
+# Netflix-Recommendation-Engine
 
-This is a program created to determine in a news article is fake or real.  
+This is a recommendation engine created with a Netflix dataset. 
